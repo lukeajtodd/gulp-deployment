@@ -1,0 +1,25 @@
+{
+  "name": "gulp-deployment",
+  "version": "0.1.0",
+  "description": "Gulpfiles for deployment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lukeajtodd/gulp-deployment.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lukeajtodd/gulp-deployment/issues"
+  },
+  "homepage": "https://github.com/lukeajtodd/gulp-deployment#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-bump": "^2.7.0",
+    "gulp-git": "^2.2.0",
+    "gulp-sass": "^3.1.0"
+  }
+}
